@@ -1,0 +1,6 @@
+
+s3:
+  url: http://localhost:9000
+  accessKey: admin
+  secretKey: password
+  bucketName: test
